@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">B1ndService</string>
+    <string name="error_server">서버에서 에러가 났습니다.</string>
+    <string name="error_unknown">알수없는 에러가 났습니다.</string>
+</resources>
